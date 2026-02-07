@@ -178,6 +178,12 @@ function celebrate() {
     document.querySelectorAll('.question-section').forEach(q => q.classList.add('hidden'));
     const celebration = document.getElementById('celebration');
     celebration.classList.remove('hidden');
+
+    // 🎉 Set GIF background
+    celebration.style.backgroundImage = "url('photos/yes.gif')";
+    celebration.style.backgroundSize = "cover";
+    celebration.style.backgroundPosition = "center";
+    celebration.style.backgroundRepeat = "no-repeat";
     
     // Set celebration messages
     document.getElementById('celebrationTitle').textContent = config.celebration.title;

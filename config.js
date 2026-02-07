@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓', '🌏'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻', '❤️']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓🌏",
-        message: "See you soonzz khannee...\niloveeeeyouuuusoomuch",
-        emojis: "🌏💖🤗💝🌏❤️💕🌏​"  // These will bounce around
+        title: "Khanneeeee.....I'm the luckiest person in the world! 🎉💝💖💝💓🌏",
+        message: "see you soonz\n\niloveeeeyouuuusoomuch\n\n\n\n",
+        emojis: "🌏❤️💖🤗💝❤️❤️💕🌏​"  // These will bounce around
     },
 
     // Color scheme for the website
