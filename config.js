@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓🌏",
-        message: "See you soonzz khannee..iloveeeeyouuuusoomuch🌏",
+        message: "See you soonzz khannee...\niloveeeeyouuuusoomuch",
         emojis: "🌏💖🤗💝🌏❤️💕🌏​"  // These will bounce around
     },
 
@@ -78,10 +78,10 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/ditudkwll/video/upload/v1770452227/Kudiye_Ni_Mere_Dil_Vich_Bas_Ja_128_Kbps_-_mp3cut.net_abdp1v.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.6                        // Volume level (0.0 to 1.0)
     }
 };
 
